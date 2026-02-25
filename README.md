@@ -2,50 +2,40 @@
 
 <!-- Hero Banner -->
 <picture>
-  <img src="./assets/hero.svg" alt="Atharv RG - Software Engineer">
+  <img src="./assets/hero.svg" alt="Atharv R Gachchi - Software Engineer">
 </picture>
 
 <!-- Manifesto & Skills -->
 <picture>
-  <img src="./assets/manifesto.svg" alt="Design Philosophy and Toolkit">
+  <img src="./assets/manifesto.svg" alt="Design Philosophy and Arsenal">
 </picture>
 
 <br>
 
-<!-- Minimalist Project Directory -->
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="33%" align="left" style="border: none;">
-      <h4 style="font-family: -apple-system, sans-serif; letter-spacing: 2px;">SELECTED WORKS</h4>
-    </td>
-    <td width="33%" align="center" style="border: none;">
-      <h4 style="font-family: -apple-system, sans-serif; letter-spacing: 2px;">LATEST ESSAYS</h4>
-    </td>
-    <td width="33%" align="right" style="border: none;">
-      <h4 style="font-family: -apple-system, sans-serif; letter-spacing: 2px;">CONTACT</h4>
-    </td>
-  </tr>
-  <tr>
-    <td align="left" style="border: none;">
-      <a href="LINK_TO_PROJECT" style="text-decoration: none; color: inherit;"><i>Project Alpha</i> ↗</a><br><br>
-      <a href="LINK_TO_PROJECT" style="text-decoration: none; color: inherit;"><i>Project Beta</i> ↗</a>
-    </td>
-    <td align="center" style="border: none;">
-      <a href="LINK_TO_BLOG" style="text-decoration: none; color: inherit;"><i>On Clean Architecture</i> ↗</a><br><br>
-      <a href="LINK_TO_BLOG" style="text-decoration: none; color: inherit;"><i>State Management</i> ↗</a>
-    </td>
-    <td align="right" style="border: none;">
-      <a href="mailto:your@email.com" style="text-decoration: none; color: inherit;"><i>Email</i> ↗</a><br><br>
-      <a href="https://linkedin.com/in/YOUR_LINKEDIN" style="text-decoration: none; color: inherit;"><i>LinkedIn</i> ↗</a>
-    </td>
-  </tr>
-</table>
+<h4 style="font-family: -apple-system, sans-serif; letter-spacing: 2px; margin-top: 40px;">SELECTED WORKS</h4>
+<p>
+  <a href="https://github.com/AtharvRG/moirai" style="text-decoration: none; color: inherit;"><img src="./assets/moirai.ico" width="16" height="16" alt="" style="vertical-align: middle;"> <i>Moirai</i> ↗</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/AtharvRG/nudge" style="text-decoration: none; color: inherit;"><img src="./assets/nudge.ico" width="16" height="16" alt="" style="vertical-align: middle;"> <i>Nudge</i> ↗</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/AtharvRG/chameleon-docs" style="text-decoration: none; color: inherit;"><img src="./assets/chameleon-docs.ico" width="16" height="16" alt="" style="vertical-align: middle;"> <i>Chameleon Docs</i> ↗</a>
+</p>
+<p style="font-size: 14px; color: #888;">
+  <i>3 more cool projects coming up soon!</i>
+</p>
 
-<br>
-<br>
+<h4 style="font-family: -apple-system, sans-serif; letter-spacing: 2px; margin-top: 40px;">SOCIALS</h4>
+<p>
+  <a href="mailto:atharv2703123@gmail.com" style="text-decoration: none; color: inherit;"><i>Email</i> ↗</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://atharv.is-a-good.dev" style="text-decoration: none; color: inherit;"><i>Portfolio</i> ↗</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://anchor-arg.vercel.app" style="text-decoration: none; color: inherit;"><i>Brand</i> ↗</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://x.com/AGachchi" style="text-decoration: none; color: inherit;"><i>X</i> ↗</a>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/atharvrgachchi" style="text-decoration: none; color: inherit;"><i>LinkedIn</i> ↗</a>
+</p>
+
+
+<br><br>
 
 <p align="center" style="font-family: -apple-system, sans-serif; font-size: 10px; letter-spacing: 3px; color: #888;">
-  © 2026 ATHARV R.G. — ALL RIGHTS RESERVED.
+  © 2026 ATHARV R GACHCHI — ALL RIGHTS RESERVED TO BE MYSELF.
 </p>
 
 </div>

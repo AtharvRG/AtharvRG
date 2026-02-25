@@ -18,13 +18,12 @@
 
   <rect width="100%" height="100%" class="bg" />
 
-  <!-- Continuous Grid Lines from Hero -->
-  <line x1="60" y1="0" x2="60" y2="300" class="grid-line" />
-  <line x1="740" y1="0" x2="740" y2="300" class="grid-line" />
-  <line x1="0" y1="299" x2="800" y2="299" class="grid-line" />
-
   <!-- Drop Cap -->
   <text x="80" y="100" class="serif text-main" font-size="90">I</text>
+
+  <line x1="60" y1="0" x2="60" y2="450" class="grid-line" />
+  <line x1="0" y1="360" x2="800" y2="360" class="grid-line" />
+  <line x1="740" y1="0" x2="740" y2="450" class="grid-line" />
 
   <!-- Editorial Column 1 -->
   <text x="140" y="55" class="sans text-main" font-size="12" font-weight="bold" letter-spacing="1">PHILOSOPHY</text>
@@ -34,16 +33,13 @@
   <text x="80" y="165" class="serif text-muted" font-size="16" font-style="italic">Code is not just logic; it is a medium</text>
   <text x="80" y="190" class="serif text-muted" font-size="16" font-style="italic">of design and communication.</text>
 
-  <!-- Divider -->
-  <line x1="400" y1="40" x2="400" y2="220" class="grid-line" />
-
   <!-- Editorial Column 2 (Skills as a stark list) -->
-  <text x="440" y="55" class="sans text-main" font-size="12" font-weight="bold" letter-spacing="1">THE TOOLKIT</text>
+  <text x="440" y="55" class="sans text-main" font-size="12" font-weight="bold" letter-spacing="1">THE ARSENAL</text>
   
   <!-- Skill list mimicking an index -->
-  <text x="440" y="90" class="sans text-main" font-size="11" letter-spacing="2">01. TYPESCRIPT / JAVASCRIPT</text>
-  <text x="440" y="115" class="sans text-main" font-size="11" letter-spacing="2">02. REACT / NEXT.JS</text>
-  <text x="440" y="140" class="sans text-main" font-size="11" letter-spacing="2">03. PYTHON / SYSTEM DESIGN</text>
-  <text x="440" y="165" class="sans text-main" font-size="11" letter-spacing="2">04. UI/UX &amp; TYPOGRAPHY</text>
-  <text x="440" y="190" class="sans text-main" font-size="11" letter-spacing="2">05. CLOUD INFRASTRUCTURE</text>
+  <text x="440" y="90" class="sans text-main" font-size="11" letter-spacing="2">01. FULLSTACK DEVELOPMENT</text>
+  <text x="440" y="115" class="sans text-main" font-size="11" letter-spacing="2">02. CROSS-PLATFORM DEV</text>
+  <text x="440" y="140" class="sans text-main" font-size="11" letter-spacing="2">03. MACHINE &amp; DEEP LEARNING</text>
+  <text x="440" y="165" class="sans text-main" font-size="11" letter-spacing="2">04. WEB3 / DECENTRALIZATION</text>
+  <text x="440" y="190" class="sans text-main" font-size="11" letter-spacing="2">05. SYSTEM COMPREHENSION</text>
 </svg>

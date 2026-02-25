@@ -9,7 +9,7 @@
     .text-main { fill: #111111; }
     .text-muted { fill: #555555; }
     .grid-line { stroke: #D8D8D4; stroke-width: 1; }
-    .accent { fill: #C82B28; } /* Swiss Red Accent */
+    .accent { fill: #28c8a0ff; } /* Swiss Red Accent */
 
     /* Dark Mode Auto-Switch */
     @media (prefers-color-scheme: dark) {
@@ -17,7 +17,7 @@
       .text-main { fill: #F0F6FC; }
       .text-muted { fill: #8B949E; }
       .grid-line { stroke: #21262D; }
-      .accent { fill: #FF4A46; }
+      .accent { fill: #46ff96ff; }
     }
   </style>
 
@@ -30,22 +30,22 @@
   <line x1="740" y1="0" x2="740" y2="450" class="grid-line" />
 
   <!-- Top Metadata (Swiss Style) -->
-  <text x="80" y="40" class="sans text-main" font-size="10" font-weight="bold" letter-spacing="2">EDITION 01</text>
-  <text x="630" y="40" class="sans text-muted" font-size="10" letter-spacing="1">CURATED WORK</text>
+  <text x="80" y="40" class="sans text-main" font-size="10" font-weight="normal" letter-spacing="2">Precision and Dedication</text>
+  <text x="620" y="40" class="sans text-muted" font-size="10" letter-spacing="1">CURATED WORK</text>
   
-  <circle cx="740" cy="35" r="4" class="accent" />
+  <circle cx="725" cy="37" r="4" class="accent" />
 
   <!-- Massive Editorial Typography (Vogue Style) -->
   <text x="75" y="160" class="serif text-main" font-size="110" font-weight="normal" font-style="italic">Atharv</text>
-  <text x="75" y="260" class="serif text-main" font-size="110" font-weight="normal">R.G.</text>
+  <text x="75" y="260" class="serif text-main" font-size="110" font-weight="normal">R Gachchi</text>
 
   <!-- Descriptor text -->
   <text x="80" y="320" class="sans text-muted" font-size="12" font-weight="500" letter-spacing="4">SOFTWARE ENGINEER &amp; DIGITAL ARCHITECT</text>
 
   <!-- Bottom Grid Content -->
   <text x="80" y="405" class="sans text-main" font-size="10" font-weight="bold" letter-spacing="1">FOCUS</text>
-  <text x="80" y="425" class="serif text-muted" font-size="14" font-style="italic">Full-Stack Architecture / UX Engineering</text>
+  <text x="80" y="425" class="serif text-muted" font-size="14" font-style="italic">Full Stack / LLMs / ML / Web3</text>
 
   <text x="400" y="405" class="sans text-main" font-size="10" font-weight="bold" letter-spacing="1">LOCATION</text>
-  <text x="400" y="425" class="serif text-muted" font-size="14" font-style="italic">Worldwide Grid</text>
+  <text x="400" y="425" class="serif text-muted" font-size="14" font-style="italic">Planet Earth :)</text>
 </svg>
