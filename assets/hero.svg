@@ -33,7 +33,6 @@
   <text x="80" y="40" class="sans text-main" font-size="10" font-weight="normal" letter-spacing="2">Precision and Dedication</text>
   <text x="620" y="40" class="sans text-muted" font-size="10" letter-spacing="1">CURATED WORK</text>
   
-  <circle cx="725" cy="37" r="4" class="accent" />
 
   <!-- Massive Editorial Typography (Vogue Style) -->
   <text x="75" y="160" class="serif text-main" font-size="110" font-weight="normal" font-style="italic">Atharv</text>
