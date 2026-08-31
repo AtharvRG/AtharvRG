@@ -26,7 +26,6 @@
 <p>
   <a href="mailto:atharv2703123@gmail.com" style="text-decoration: none; color: inherit;"><i>Email</i> ↗</a> &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://atharv.is-a-good.dev" style="text-decoration: none; color: inherit;"><i>Portfolio</i> ↗</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://anchor-arg.vercel.app" style="text-decoration: none; color: inherit;"><i>Brand</i> ↗</a> &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://x.com/AGachchi" style="text-decoration: none; color: inherit;"><i>X</i> ↗</a>&nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://linkedin.com/in/atharvrgachchi" style="text-decoration: none; color: inherit;"><i>LinkedIn</i> ↗</a>
 </p>
